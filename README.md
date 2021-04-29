@@ -4,7 +4,7 @@
 
 Excercise from a node course
 
-Remember to install package dependencies
+Remember to install package dependences
 
 ```
 npm install 
